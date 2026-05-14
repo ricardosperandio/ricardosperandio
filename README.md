@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./ChatGPT Image 14_05_2026, 01_29_26.png" width="500"/>
+</p>
 # 👾 Ricardo Sperandio
 
 **`Game Developer • Software Engineering Student`**
