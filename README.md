@@ -88,6 +88,8 @@ Projeto de jogo desenvolvido na Unity com foco em gameplay, mecânicas interativ
 
 🔗 Repositório:  
 [👉 Clique para acessar](https://github.com/ricardosperandio/Spamnic)
-
+<p align="center">
+  <img src="./Spamnic.png" width="500"/>
+</p>
 ---
 
