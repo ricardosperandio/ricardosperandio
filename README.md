@@ -81,4 +81,13 @@ Me chamo Ricardo Sperandio, sou desenvolvedor de jogos e apaixonado por tecnolog
 - 🕹️ Game Design
 
 ---
+## 🎮 Projetos
+
+### 🕹️ Spamnic!
+Projeto de jogo desenvolvido na Unity com foco em gameplay, mecânicas interativas e experiência do jogador.
+
+🔗 Repositório:  
+[👉 Clique para acessar](https://github.com/ricardosperandio/Spamnic)
+
+---
 
